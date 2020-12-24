@@ -15,7 +15,6 @@ I created a visualization dashboard in Tableau. I accomplished this with the hel
     - Measures: It contains for numerical data.
 4. Most popular end stations
   - ![Most Popular End Stations](https://github.com/edaaydinea/Tableau-Visualizing-Citibike-Trips/blob/master/End%20Stations.jpg)
-  - 
 5. Most popular start stations
   - ![Start Stations](https://github.com/edaaydinea/Tableau-Visualizing-Citibike-Trips/blob/master/Start%20Stations.jpg)
   - ![Most Popular Start Stations](https://github.com/edaaydinea/Tableau-Visualizing-Citibike-Trips/blob/master/Most%20popular%20start%20stations.jpg)
