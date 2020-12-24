@@ -14,10 +14,12 @@ I created a visualization dashboard in Tableau. I accomplished this with the hel
     - Dimensions: It contains for categorical data.
     - Measures: It contains for numerical data.
 4. Most popular end stations
-  - ![Most popular end stations]()
+  - ![Most Popular End Stations](https://github.com/edaaydinea/Tableau-Visualizing-Citibike-Trips/blob/master/End%20Stations.jpg)
+  - 
 5. Most popular start stations
-  - 
+  - ![Start Stations](https://github.com/edaaydinea/Tableau-Visualizing-Citibike-Trips/blob/master/Start%20Stations.jpg)
+  - ![Most Popular Start Stations](https://github.com/edaaydinea/Tableau-Visualizing-Citibike-Trips/blob/master/Most%20popular%20start%20stations.jpg)
 6. Average trip duration
-  - 
+  - ![Average Trip Duration](https://github.com/edaaydinea/Tableau-Visualizing-Citibike-Trips/blob/master/Average%20Trip%20Duration.jpg)
 7. Data distribution
-  - 
+  - ![Visualizing Citbike Trips](https://github.com/edaaydinea/Tableau-Visualizing-Citibike-Trips/blob/master/Visualizing%20Citibike%20Trips.png)
